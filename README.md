@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veda-rathna.
-- 👀 I’m interested in video games and progarmming.
+- 👀 I’m interested in video games and programming.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : vedarathna057@gmail.com
