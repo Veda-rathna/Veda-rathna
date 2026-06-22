@@ -1,27 +1,149 @@
-<h1 align="center">Hi 👋, I'm Vedarathna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there 👋, I'm Vedarathna A K
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veda-rathna&label=Profile%20views&color=0e75b6&style=flat" alt="veda-rathna" /> </p>
+### AI & Data Science Student | Software Developer | AI Builder
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veda-rathna" alt="veda-rathna" /></a> </p>
+I'm a final-year B.Tech Artificial Intelligence & Data Science student at **R.M.K Engineering College** who enjoys building AI-powered applications, backend systems, and practical solutions to real-world problems.
 
-- 🔭 I’m currently working on [AI_Agent_for_PC_Fix](https://github.com/Veda-rathna/AI_Agent_for_PC_Fix)
+I love working at the intersection of **Artificial Intelligence, Backend Development, Automation, and Cloud Technologies**. Whether it's developing intelligent healthcare assistants, building scalable APIs, training ML models, or running services on my homelab, I enjoy turning ideas into working products.
 
-- 🌱 I’m currently learning **AI powered tools, DSA and Backend Development**
+---
 
-- 💬 Ask me about **Django, ML & DL**
+## 🚀 Current Focus
 
-- 📫 How to reach me **vedarathna057@gmail.com**
+* 🤖 Building AI-powered applications and intelligent agents
+* 🌐 Backend development with Django, FastAPI, and PostgreSQL
+* 📚 Preparing for technical interviews and strengthening DSA skills
+* 🏠 Managing a self-hosted homelab using Proxmox and Linux
+* 🇯🇵 Learning Japanese (NAT Q5)
 
-- ⚡ Fun fact **I think the problems in my project as game levels, split them and progress them.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/veda-rathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veda-rathna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user4509ge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4509ge" height="30" width="40" /></a>
+## 🛠 Featured Projects
+
+### 🔧 AutoMend
+
+An AI-powered PC troubleshooting assistant that helps users diagnose and resolve computer issues through intelligent problem analysis and guided solutions.
+
+**Tech Stack:** Python, NLP, Machine Learning, FastAPI
+
+---
+
+### 🏥 Patient Health Record Assistant
+
+A GenAI-powered healthcare solution that enables users to interact with complex medical JSON records using natural language queries.
+
+**Features:**
+
+* Large-scale JSON processing
+* Semantic search and retrieval
+* AI-powered question answering
+* Healthcare data interpretation
+
+**Tech Stack:** Python, FastAPI, Vector Databases, RAG, LLMs
+
+---
+
+### 💼 Creator Management Platform
+
+Developed during my Software Developer Internship at T&C Engineers Pvt. Ltd.
+
+**Features:**
+
+* Client management
+* User management
+* Payment tracking
+* REST APIs
+* Database optimization
+
+**Tech Stack:** Django, PostgreSQL, MongoDB, REST APIs
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Selected among the top teams from 1400+ participants in a national-level hackathon
+* 🏅 Won 2nd place at Anna University CEG Ideathon
+* 🎓 Completed Oracle AI Vector Database Learning Path
+* 📜 Earned multiple certifications through Infosys Springboard
+* 💻 Active participant in hackathons, AI projects, and technical competitions
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+`Python` `Java` `C` `C++` `Kotlin` `JavaScript`
+
+### AI & Data Science
+
+`Machine Learning`
+`Deep Learning`
+`PyTorch`
+`TensorFlow`
+`OpenCV`
+`NLP`
+`Generative AI`
+
+### Backend Development
+
+`Django`
+`FastAPI`
+`Node.js`
+`REST APIs`
+`PostgreSQL`
+`MongoDB`
+`Redis`
+
+### Frontend Development
+
+`React`
+`HTML`
+`CSS`
+`TailwindCSS`
+
+### Tools & Platforms
+
+`Linux`
+`Git`
+`Postman`
+`Figma`
+`Proxmox`
+`Docker`
+`Cloudflare`
+`Tailscale`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Veda-rathna&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veda-rathna&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veda-rathna&show_icons=true&locale=en" alt="veda-rathna" /></p>
+## 🌱 Currently Learning
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* System Design
+* Advanced Backend Engineering
+* Cloud Infrastructure
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: **[vedarathna057@gmail.com](mailto:vedarathna057@gmail.com)**
+* 💼 LinkedIn: **linkedin.com/in/veda-rathna**
+* 💻 GitHub: **github.com/Veda-rathna**
+* 🧩 LeetCode: **leetcode.com/user4509ge**
+
+---
+
+### ⚡ Fun Fact
+
+I treat project problems like game levels—break them into smaller challenges, solve them one at a time, and keep progressing until the final boss is defeated.
