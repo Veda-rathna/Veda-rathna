@@ -115,16 +115,6 @@ Developed during my Software Developer Internship at T&C Engineers Pvt. Ltd.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veda-rathna&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veda-rathna&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * Large Language Models (LLMs)
